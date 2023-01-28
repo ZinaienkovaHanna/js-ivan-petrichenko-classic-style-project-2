@@ -58,8 +58,6 @@ const drop = () => {
             input.previousElementSibling.textContent = name;
         })
     })
-
-
 };
 
 export default drop;
